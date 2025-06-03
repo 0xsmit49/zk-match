@@ -153,7 +153,8 @@ Demo Video
 
 ---
 ### 6.Research Dashboard
-![Uploading Screenshot from 2025-06-03 11-43-16.png…]()
+![Screenshot from 2025-06-03 11-43-16](https://github.com/user-attachments/assets/f6fbb846-5dd2-4be4-a9c1-1057eba2bd78)
+
 
 
 
