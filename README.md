@@ -1,8 +1,10 @@
 #  ZK-Match: Anonymous Genetic Matchmaking for Rare Diseases
-![Screenshot from 2025-05-29 13-21-51](https://github.com/user-attachments/assets/46017330-db0e-4359-be87-76fa38787f7e)
+![Screenshot from 2025-05-29 13-21-51](https://github.com/user-attachments/assets/b1aa0ea2-0d8e-46f6-8b33-21c3a13bc907)
+
 
 #  Architecture Diagram:
-![image](https://github.com/user-attachments/assets/3ac097cb-c81b-480d-9c0b-02c7ea1a213c)
+![image](https://github.com/user-attachments/assets/e245a956-2c16-4125-9d31-20424ba8678a)
+
 
 
 ---
@@ -126,28 +128,33 @@ Demo Video
 ---
 
 ### 1. zkLogin
-![Screenshot from 2025-06-03 11-41-12](https://github.com/user-attachments/assets/2cfa7ef6-045b-4ac9-9d9f-7b8e751ad3ed)
+![Screenshot from 2025-06-03 11-41-12](https://github.com/user-attachments/assets/49b86a80-2d68-4703-a7f5-74b238e1d6ee)
+
 
 ---
 ### 2.Genetic Data Upload
-![Screenshot from 2025-06-03 11-41-22](https://github.com/user-attachments/assets/2e6f5a5d-6c4a-49b2-85f5-e05fd9e74398)
-![Screenshot from 2025-06-03 11-41-35](https://github.com/user-attachments/assets/6685fc57-5002-4bc2-978d-712dcd133612)
+![Screenshot from 2025-06-03 11-41-22](https://github.com/user-attachments/assets/df7ba65b-d4c6-4a44-b56c-5a1098fc9598)
+![Screenshot from 2025-06-03 11-41-35](https://github.com/user-attachments/assets/ae710815-d44c-46cc-9bc4-16aa90856a7b)
 
 ---
 ### 3.Data Processing and zk-proof
-![Screenshot from 2025-06-03 11-41-47](https://github.com/user-attachments/assets/d86c0e5f-f420-4e94-a51b-d7394d70e5d3)
+![Screenshot from 2025-06-03 11-41-47](https://github.com/user-attachments/assets/d377daf7-3819-4143-92bb-c4997bb53975)
+
 
 ---
 ### 4.Your Matches
-![Screenshot from 2025-06-03 11-42-25](https://github.com/user-attachments/assets/b9bd5c68-ffdc-417e-9057-494b77572a22)
+![Screenshot from 2025-06-03 11-42-25](https://github.com/user-attachments/assets/3da7fc17-3863-495d-8c27-1cc776258e07)
+
 
 ---
 ### 5.Secure Chat
-![Screenshot from 2025-06-03 11-42-45](https://github.com/user-attachments/assets/eea97b54-ab9e-4653-9442-4a1391e470a8)
+![Screenshot from 2025-06-03 11-42-45](https://github.com/user-attachments/assets/16bbbe35-8f3a-4440-98f1-854691b2cf5b)
+
 
 ---
 ### 6.Research Dashboard
-![Screenshot from 2025-06-03 11-43-16](https://github.com/user-attachments/assets/755bc81a-4afc-4d19-87a5-bd67d7b9955d)
+![Uploading Screenshot from 2025-06-03 11-43-16.png…]()
+
 
 
 ---
