@@ -119,15 +119,15 @@ By leveraging zero-knowledge proofs and advanced cryptographic techniques, **ZK-
 - 🎖 SUI-token incentives for data contribution
 -  Anti-spam reputation staking model
 
----
-
-##  Demo Screens
 
 ---
 ## Demo Video
 
 https://youtu.be/-Q1Fy-BvqkI
 
+---
+
+##  Demo Screens
 ---
 
 ### 1. zkLogin
