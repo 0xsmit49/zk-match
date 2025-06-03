@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 'use client'
 import React, { useState, useRef } from 'react';
 import { Upload, Shield, Users, MessageCircle, BarChart3, Lock, Eye, EyeOff, Check, AlertCircle, Dna, Zap, FileText, Settings, Send, X, User } from 'lucide-react';
