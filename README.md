@@ -175,11 +175,3 @@ Built for the Sui Overflow 2025 Hackathon
 
 > “ZK-Match helps people find hope—not just data—without giving up their privacy.”
 
-# zk-match
-A privacy-focused platform with Move contracts, secure chat, research dashboard, and zkLogin integration.
-
-# zk-match
-A privacy-focused platform with Move contracts, secure chat, research dashboard, and zkLogin integration.
-
-# zk-match
-A privacy-focused platform with Move contracts, secure chat, research dashboard, and zkLogin integration.
